@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sujeet
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me Sujeetpatil111@gmail.com
 
 <!---
